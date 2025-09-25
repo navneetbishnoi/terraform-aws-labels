@@ -35,7 +35,7 @@ module "labels" {
 ```
 
 ## Examples
-For detailed examples on how to use this module, please refer to the [examples](https://github.com/navneetbishnoi/terraform-aws-labels/tree/master/example) directory within this repository.
+For detailed examples on how to use this module, please refer to the [examples](https://github.com/navneetbishnoi/terraform-aws-labels/tree/main/_example) directory within this repository.
 
 ## License
 This Terraform module is available under the **MIT** License. For more details, please see the [LICENSE](https://github.com/navneetbishnoi/terraform-aws-labels/blob/master/LICENSE) file.
