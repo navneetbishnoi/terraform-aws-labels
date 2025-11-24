@@ -50,7 +50,7 @@ Replace **MIT** and **navneetbishnoi** with the appropriate license and your inf
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.8.5 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 6.5.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 6.13.0 |
 | <a name="requirement_tls"></a> [tls](#requirement\_tls) | 4.1.0 |
 
 ## Providers
